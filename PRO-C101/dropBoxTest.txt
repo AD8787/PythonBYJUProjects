@@ -1,0 +1,13 @@
+This file was uploaded to dropbox using python code.
+
+To learn how to do it, follow the steps below.
+
+1. open your command prompt(if you are on windows) or your terminal(if you are on mac)
+2. In your terminal or command prompt window, type the following: 
+    howdoi upload files to dropbox using python
+3. The output will be displayed and you can use the code as followed.
+
+Note: You must create a file called test.txt 
+in your folder which you created the same
+python file you used for your code. 
+And when it asks for the path, you must give a full one.
