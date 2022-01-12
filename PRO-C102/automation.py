@@ -1,3 +1,7 @@
+"""
+Note: 
+Every 24 hours it will finish all your homework for you. This is not a real project to ACTUALLY finish up your homework, but this would be a framework for one if I could link it to my homework database.
+"""
 import time
 
 class automate():
